@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<table border="1"><tr><th>Inicio Prueba</th><th>2019-07-29_10:00:44</th></tr></table>]]>
+    </line>
+    <line>
+      <![CDATA[<table border="1"><tr><th>Action</th><th>Status</th><th>Description</th><th>Screenshot</th></tr><style>.img:hover{color: #424242;-webkit-transition: all .3s ease-in;-moz-transition: all .3s ease-in;-ms-transition: all .3s ease-in;-o-transition: all .3s ease-in;transition: all .3s ease-in;opacity: 1;transform: scale(2.99);-ms-transform: scale(2.99); /* IE 9 */-webkit-transform: scale(2.99); /* Safari and Chrome */}</style></table>]]>
+    </line>
+    <line>
+      <![CDATA[<table border="1"><tr><th>Fin Prueba</th><th>2019-07-29 10:01:38</th></tr></table>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53612" started-at="2019-07-29T15:00:44Z" finished-at="2019-07-29T15:01:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53612" started-at="2019-07-29T15:00:44Z" finished-at="2019-07-29T15:01:38Z">
+      <class name="TESTCASE.TC1_PruebaSL">
+        <test-method status="PASS" signature="getParameters()[pri:0, instance:TESTCASE.TC1_PruebaSL@553f17c]" name="getParameters" is-config="true" duration-ms="106" started-at="2019-07-29T15:00:44Z" finished-at="2019-07-29T15:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getParameters -->
+        <test-method status="FAIL" signature="TC1Test()[pri:1, instance:TESTCASE.TC1_PruebaSL@553f17c]" name="TC1Test" duration-ms="53485" started-at="2019-07-29T15:00:44Z" finished-at="2019-07-29T15:01:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<table border="1"><tr><th>Inicio Prueba</th><th>2019-07-29_10:00:44</th></tr></table>]]>
+            </line>
+            <line>
+              <![CDATA[<table border="1"><tr><th>Action</th><th>Status</th><th>Description</th><th>Screenshot</th></tr><style>.img:hover{color: #424242;-webkit-transition: all .3s ease-in;-moz-transition: all .3s ease-in;-ms-transition: all .3s ease-in;-o-transition: all .3s ease-in;transition: all .3s ease-in;opacity: 1;transform: scale(2.99);-ms-transform: scale(2.99); /* IE 9 */-webkit-transform: scale(2.99); /* Safari and Chrome */}</style></table>]]>
+            </line>
+            <line>
+              <![CDATA[<table border="1"><tr><th>Fin Prueba</th><th>2019-07-29 10:01:38</th></tr></table>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1Test -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:TESTCASE.TC1_PruebaSL@553f17c]" name="endProcess" is-config="true" duration-ms="595" started-at="2019-07-29T15:01:38Z" finished-at="2019-07-29T15:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- TESTCASE.TC1_PruebaSL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
